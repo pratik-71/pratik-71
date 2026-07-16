@@ -38,19 +38,24 @@
 
 <br>
 
-<table>
+<table width="100%">
   <tr>
-    <td width="60%">
+    <td width="60%" valign="top">
+      <br>
       <ul>
         <li>💼 Former <b>CTO & Full Stack Developer</b> at <i>Persist Ventures</i></li>
+        <br>
         <li>🔭 Currently architecting highly interactive and robust web applications.</li>
+        <br>
         <li>🌱 Mastering <b>React, Next.js, Node.js, and TypeScript</b> ecosystems.</li>
+        <br>
         <li>💬 Let's talk about <b>Frontend Design, Backend Architecture, and Microservices</b>.</li>
+        <br>
         <li>⚡ Philosophy: Turning coffee into impactful lines of code.</li>
       </ul>
     </td>
-    <td width="40%" align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Fire.png" alt="Fire Emoji" width="150" height="150" />
+    <td width="40%" align="center" valign="center">
+      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding GIF" width="220" />
     </td>
   </tr>
 </table>
@@ -60,13 +65,18 @@
 ## 🌟 The Masterpiece
 
 <div align="center">
-  <h3>✨ <a href="https://resumeally.in/">ResumeAlly</a> ✨</h3>
-  <p><i>The ultimate tool to build and manage your resume with ease. Engineered for performance, crafted for elegance, and designed to make an impact.</i></p>
-  <br/>
+  <h3>✨ <a href="https://resumeally.in/" target="_blank">ResumeAlly</a> ✨</h3>
+  <br>
   <a href="https://resumeally.in/" target="_blank">
     <img src="https://img.shields.io/badge/🚀_Experience_ResumeAlly-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="ResumeAlly" />
   </a>
-  <br/><br/>
+  <br><br>
+  <div style="max-width: 650px; text-align: center;">
+    <b>ResumeAlly is an AI-powered ATS platform built to supercharge your career.</b><br><br>
+    It effortlessly builds <b>high ATS score resumes</b>, allows you to <b>auto-apply to jobs</b>, 
+    and perfectly <b>auto-tailors your resume</b> for specific roles in just one click!
+  </div>
+  <br>
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.gif" width="50%">
 </div>
 
@@ -74,11 +84,29 @@
 
 ## 💻 Tech Stack & Tools
 
-<p align="center">
+<div align="center">
+  <br>
+  <h3>🎨 Frontend</h3>
+  <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,python,django,redis,mongodb,git,github,docker,aws&perline=9" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,vite&perline=10" />
   </a>
-</p>
+  <br><br>
+
+  <h3>⚙️ Backend & Database</h3>
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,mongodb,redis,postgres,mysql,graphql&perline=10" />
+  </a>
+  <br><br>
+
+  <h3>🛠️ DevOps & Tools</h3>
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,bash,postman,figma,vscode&perline=10" />
+  </a>
+  <br>
+</div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
