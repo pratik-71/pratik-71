@@ -45,11 +45,11 @@
       <ul>
         <li>💼 Former <b>CTO & Full Stack Developer</b> at <i>Persist Ventures</i></li>
         <br>
-        <li>🔭 Currently architecting highly interactive and robust web applications.</li>
+        <li>🧠 <b>Built an AI pipeline using RAG and vector databases</b> that auto-learns user behavior, boosting engagement 40% by changing difficulty.</li>
         <br>
-        <li>🌱 Mastering <b>React, Next.js, Node.js, and TypeScript</b> ecosystems.</li>
+        <li>🎮 <b>Designed and optimized a lightweight, high-performance game engine</b> for low-spec devices, enabling smooth gameplay across 50+ schools and 500+ PCs, improving accessibility for 1,000+ students.</li>
         <br>
-        <li>💬 Let's talk about <b>Frontend Design, Backend Architecture, and Microservices</b>.</li>
+        <li>⚙️ <b>Architected scalable backend systems</b> using GraphQL and microservices, integrating seamless APIs to support 1,000+ concurrent users across B2B and B2C platforms, improving API response times by 40% and reducing server load by 55%.</li>
         <br>
         <li>⚡ Philosophy: Turning coffee into impactful lines of code.</li>
       </ul>
@@ -59,6 +59,12 @@
     </td>
   </tr>
 </table>
+
+<br>
+<div align="center">
+  <img src="https://img.shields.io/badge/🚀_Built_7%2B_SaaS_Applications_Scaled_to_1000%2B_Users_(Including_Paid_Users)-FF4500?style=for-the-badge" alt="7+ SaaS Apps" />
+</div>
+<br>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
