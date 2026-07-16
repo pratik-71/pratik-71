@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Pratik%20Dabhade&fontSize=80&fontAlignY=35&desc=Innovation%20for%20Impact%20🚀&descAlignY=55&descAlign=50&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Pratik%20Dabhade&fontSize=80&fontAlignY=35&desc=Innovation%20for%20Impact%20&descAlignY=55&descAlign=50&animation=twinkling" />
 
 <br>
 
@@ -62,7 +62,7 @@
 
 <br>
 <div align="center">
-  <img src="https://img.shields.io/badge/🚀_Built_7%2B_SaaS_Applications_Scaled_to_1000%2B_Users_(Including_Paid_Users)-FF4500?style=for-the-badge" alt="7+ SaaS Apps" />
+  <img src="https://img.shields.io/badge/🚀_Built_7%2B_SaaS_Applications_Scaled_to_1000%2B_Users_(Including_Paid_Users)-0052CC?style=for-the-badge" alt="7+ SaaS Apps" />
 </div>
 <br>
 
